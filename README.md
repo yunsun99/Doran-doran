@@ -48,8 +48,8 @@
 
 ## 프로젝트 소개
 <img width="736" alt="스크린샷 2023-06-09 오후 4 21 00" src="https://github.com/yunsun99/Doran-doran/assets/109059200/8f9df557-8aec-4a59-bdea-a2c7ea6bec88">
-<img width="450" alt="스크린샷 2023-06-09 오후 4 21 59" src="https://github.com/yunsun99/Doran-doran/assets/109059200/23d8d0ca-acf0-468b-99c1-b07838ed8726">
-<img width="450" alt="스크린샷 2023-06-09 오후 4 22 24" src="https://github.com/yunsun99/Doran-doran/assets/109059200/f57d2145-cbc8-43ab-82f9-9bc245a5a888">
+<img width="420" alt="스크린샷 2023-06-09 오후 4 21 59" src="https://github.com/yunsun99/Doran-doran/assets/109059200/23d8d0ca-acf0-468b-99c1-b07838ed8726">
+<img width="420" alt="스크린샷 2023-06-09 오후 4 22 24" src="https://github.com/yunsun99/Doran-doran/assets/109059200/f57d2145-cbc8-43ab-82f9-9bc245a5a888">
 <img width="650" alt="스크린샷 2023-06-09 오후 4 24 03" src="https://github.com/yunsun99/Doran-doran/assets/109059200/c25087c0-45f6-4f90-9c9a-63666c8fe039">
-<img width="450" alt="스크린샷 2023-06-09 오후 4 24 21" src="https://github.com/yunsun99/Doran-doran/assets/109059200/026f4f0d-cced-4e85-a46f-9b896a3f774a">
-<img width="450" alt="스크린샷 2023-06-09 오후 4 23 38" src="https://github.com/yunsun99/Doran-doran/assets/109059200/c7d85341-02f0-4327-9a60-70f4b628d452">
+<img width="420" alt="스크린샷 2023-06-09 오후 4 24 21" src="https://github.com/yunsun99/Doran-doran/assets/109059200/026f4f0d-cced-4e85-a46f-9b896a3f774a">
+<img width="420" alt="스크린샷 2023-06-09 오후 4 23 38" src="https://github.com/yunsun99/Doran-doran/assets/109059200/c7d85341-02f0-4327-9a60-70f4b628d452">
