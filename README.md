@@ -47,11 +47,13 @@
 <br>
 
 ## 프로젝트 소개
-<p align=center>
+<p align="center">
 <img width="80%" alt="스크린샷 2023-06-09 오후 4 21 00" src="https://github.com/yunsun99/Doran-doran/assets/109059200/8f9df557-8aec-4a59-bdea-a2c7ea6bec88">
 <br>
+</p>
 
 ## 프로토타입
+<p align="center">
 <img width="40%" alt="스크린샷 2023-06-09 오후 4 21 59" src="https://github.com/yunsun99/Doran-doran/assets/109059200/23d8d0ca-acf0-468b-99c1-b07838ed8726">
 <img width="40%" alt="스크린샷 2023-06-09 오후 4 22 24" src="https://github.com/yunsun99/Doran-doran/assets/109059200/f57d2145-cbc8-43ab-82f9-9bc245a5a888">
 <br>
