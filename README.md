@@ -67,5 +67,6 @@
 <br>
 [KoBERT로 7가지 감정 분류 모델 구현](https://jinya.tistory.com/2)
 <br>
-
+[커스텀 TTS 구현하기 - Tortoise tts를 활용하여](https://velog.io/@justamoment/커스텀-TTS-구현하기-Tortoise-tts를-활용하여)
+<br>
 
