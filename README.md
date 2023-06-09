@@ -1,7 +1,6 @@
 ## 도란도란 : 실감나는 동화 TTS 서비스
  > 인물의 나이, 성별에 따라 알맞은 목소리로 바뀌고, 높낮이, 강도, 톤 조절이 되는 TTS로 인건비는 줄이고 생생함을 더하는 아동 맞춤형 동화 리더 서비스 도란도란입니다.
 <br>
-<br>
 
 ## 팀원 소개
 <div align="center">
@@ -34,7 +33,6 @@
 	</table>
 </div>
 <br>
-<br>
 
 ## 기술 스택
 
@@ -43,7 +41,6 @@
 (JavaScript / TypeScript / React.js / Spring / MySQL / AWS / Git / Python / AI / Figma)
 
 </div>
-<br>
 <br>
 
 ## 프로젝트 소개
