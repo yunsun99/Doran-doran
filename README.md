@@ -63,4 +63,9 @@
 <br>
 
 ## 기술블로그
+[Spring의 기본 개념과 프로젝트 세팅](https://held-nephew-fd8.notion.site/Spring-12521e89fd0c4857858a5e627f488d35?pvs=4)
+<br>
+[KoBERT로 7가지 감정 분류 모델 구현](https://jinya.tistory.com/2)
+<br>
+
 
